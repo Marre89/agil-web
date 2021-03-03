@@ -24,7 +24,7 @@ describe("Translators", function () {
         })
     })
     
-        
+
         
         
     })
